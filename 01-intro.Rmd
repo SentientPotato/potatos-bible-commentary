@@ -1,0 +1,11 @@
+# Introduction {#intro}
+
+This "book" represents my own personal notes on a full read through of the Bible.
+In terms of what translation to read, there's of course a lot of difference of opinion on that, and different translations have different strengths.
+I usually read in the New International Version [@NIV].
+This is a decent translation that tries to balance thought-for-thought, or *dynamic equivalence,* translation with word-for-word, or *formal equivalence* (though the NIV does have some issues, which is fine when you're aware of them).
+Some prefer the New Revised Standard Version for a translation that balances formal and dynamic equivalence, but it does tend just a little bit more toward formal than dynamic equivalence.
+The English Standard Version is a decent translation that falls in the formal equivalence camp, as is the New American Standard Bible.
+No matter what, the best translation is the one you will read!
+When writing up these notes, I'll often try to point out translation issues to the extent I can find out they exist.
+I'm not a Hebrew or Greek scholar, though I have tried to learn about the languages biblical texts were written in and become comfortable researching issues of translation in academic sources so that I can better understand the Word.
